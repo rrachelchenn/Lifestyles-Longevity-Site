@@ -238,7 +238,7 @@ function initializeTimeline() {
                 "start_date": {
                     "month": "1",
                     "day": "1",
-                    "year": "2024"
+                    "year": "2025"
                 },
                 "text": {
                     "headline": "Archive Documentation Begins",
@@ -254,7 +254,7 @@ function initializeTimeline() {
                 "start_date": {
                     "month": "2",
                     "day": "15",
-                    "year": "2024"
+                    "year": "2025"
                 },
                 "text": {
                     "headline": "Growing Self-Awareness",
@@ -270,7 +270,7 @@ function initializeTimeline() {
                 "start_date": {
                     "month": "3",
                     "day": "30",
-                    "year": "2024"
+                    "year": "2025"
                 },
                 "text": {
                     "headline": "Community Connections",
@@ -286,7 +286,7 @@ function initializeTimeline() {
                 "start_date": {
                     "month": "4",
                     "day": "20",
-                    "year": "2024"
+                    "year": "2025"
                 },
                 "text": {
                     "headline": "Informed Adaptations",
@@ -302,7 +302,7 @@ function initializeTimeline() {
                 "start_date": {
                     "month": "5",
                     "day": "10",
-                    "year": "2024"
+                    "year": "2025"
                 },
                 "text": {
                     "headline": "Becoming Health Advocates",
@@ -318,7 +318,7 @@ function initializeTimeline() {
                 "start_date": {
                     "month": "6",
                     "day": "30",
-                    "year": "2024"
+                    "year": "2025"
                 },
                 "text": {
                     "headline": "Looking Forward",
@@ -342,32 +342,32 @@ function initializeTimeline() {
             <div class="timeline-fallback">
                 <h4>Health Journey Timeline</h4>
                 <p>Interactive timeline showing how archive participation influenced health practices over 6 months.</p>
-                <div class="timeline-points">
-                    <div class="timeline-item">
-                        <h5>January 2024: Documentation Begins</h5>
-                        <p>Participants start recording daily health practices</p>
+                                    <div class="timeline-points">
+                        <div class="timeline-item">
+                            <h5>January 2025: Documentation Begins</h5>
+                            <p>Participants start recording daily health practices</p>
+                        </div>
+                        <div class="timeline-item">
+                            <h5>February 2025: Growing Awareness</h5>
+                            <p>Increased recognition of effective personal practices</p>
+                        </div>
+                        <div class="timeline-item">
+                            <h5>March 2025: Community Connections</h5>
+                            <p>Participants find shared experiences through archive browsing</p>
+                        </div>
+                        <div class="timeline-item">
+                            <h5>April 2025: Practice Adaptations</h5>
+                            <p>Health approaches adapted based on diverse archive examples</p>
+                        </div>
+                        <div class="timeline-item">
+                            <h5>May 2025: Health Advocacy</h5>
+                            <p>Increased confidence in medical self-advocacy</p>
+                        </div>
+                        <div class="timeline-item">
+                            <h5>June 2025: Future Focus</h5>
+                            <p>Archive participation as empowerment and documentation for future research</p>
+                        </div>
                     </div>
-                    <div class="timeline-item">
-                        <h5>February 2024: Growing Awareness</h5>
-                        <p>Increased recognition of effective personal practices</p>
-                    </div>
-                    <div class="timeline-item">
-                        <h5>March 2024: Community Connections</h5>
-                        <p>Participants find shared experiences through archive browsing</p>
-                    </div>
-                    <div class="timeline-item">
-                        <h5>April 2024: Practice Adaptations</h5>
-                        <p>Health approaches adapted based on diverse archive examples</p>
-                    </div>
-                    <div class="timeline-item">
-                        <h5>May 2024: Health Advocacy</h5>
-                        <p>Increased confidence in medical self-advocacy</p>
-                    </div>
-                    <div class="timeline-item">
-                        <h5>June 2024: Future Focus</h5>
-                        <p>Archive participation as empowerment and documentation for future research</p>
-                    </div>
-                </div>
             </div>
         `;
     }

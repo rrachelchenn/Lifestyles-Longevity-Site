@@ -15,13 +15,13 @@
 
 .page-header h1 {
     font-size: 2.5rem;
-    color: #2c5282;
+    color: #00B4D8;
     margin-bottom: 1rem;
 }
 
 .page-subtitle {
     font-size: 1.2rem;
-    color: #666;
+    color: #03045E;
     max-width: 800px;
     margin: 0 auto;
     line-height: 1.6;
@@ -35,7 +35,7 @@
 .guide-navigation h2 {
     text-align: center;
     margin-bottom: 2rem;
-    color: #2c5282;
+    color: #00B4D8;
 }
 
 .nav-cards {
@@ -59,23 +59,23 @@
 .nav-card:hover {
     transform: translateY(-5px);
     box-shadow: 0 8px 25px rgba(0,0,0,0.15);
-    border-color: #4a90c4;
+    border-color: #00B4D8;
 }
 
 .nav-card i {
     font-size: 2.5rem;
-    color: #4a90c4;
+    color: #00B4D8;
     margin-bottom: 1rem;
 }
 
 .nav-card h3 {
-    color: #333;
+    color: #03045E;
     margin-bottom: 0.5rem;
     font-size: 1.3rem;
 }
 
 .nav-card p {
-    color: #666;
+    color: #03045E;
     margin: 0;
 }
 
@@ -89,7 +89,7 @@
 }
 
 .guide-section h2 {
-    color: #2c5282;
+    color: #00B4D8;
     margin-bottom: 2rem;
     font-size: 2rem;
     display: flex;
@@ -110,7 +110,7 @@
 }
 
 .welcome-text h3 {
-    color: #4a90c4;
+    color: #0077B6;
     margin-bottom: 1.5rem;
 }
 
@@ -121,14 +121,14 @@
 }
 
 .quick-start {
-    background: #f8f9fa;
+    background: #90E0EF;
     padding: 2rem;
     border-radius: 15px;
-    border-left: 4px solid #4a90c4;
+    border-left: 4px solid #00B4D8;
 }
 
 .quick-start h4 {
-    color: #2c5282;
+    color: #03045E;
     margin-bottom: 1.5rem;
 }
 
@@ -149,7 +149,7 @@
     position: absolute;
     left: 0;
     top: 0;
-    background: #4a90c4;
+    background: #00B4D8;
     color: white;
     width: 24px;
     height: 24px;
@@ -166,13 +166,13 @@
 }
 
 .quick-steps strong {
-    color: #2c5282;
+    color: #03045E;
     display: block;
     margin-bottom: 0.5rem;
 }
 
 .quick-steps a {
-    color: #4a90c4;
+    color: #0077B6;
     text-decoration: none;
 }
 
@@ -190,7 +190,7 @@
 
 .what-makes-different h3 {
     text-align: center;
-    color: #2c5282;
+    color: #03045E;
     margin-bottom: 2rem;
 }
 
@@ -210,17 +210,17 @@
 
 .difference-item i {
     font-size: 2rem;
-    color: #4a90c4;
+    color: #0077B6;
     margin-bottom: 1rem;
 }
 
 .difference-item h4 {
-    color: #333;
+    color: #03045E;
     margin-bottom: 1rem;
 }
 
 .difference-item p {
-    color: #666;
+    color: #03045E;
     line-height: 1.6;
 }
 
@@ -232,15 +232,15 @@
 }
 
 .tip-card {
-    background: #f8f9fa;
+    background: #90E0EF;
     padding: 2rem;
     border-radius: 15px;
     margin-bottom: 2rem;
-    border-left: 4px solid #4a90c4;
+    border-left: 4px solid #00B4D8;
 }
 
 .tip-card h4 {
-    color: #2c5282;
+    color: #03045E;
     margin-bottom: 1.5rem;
     display: flex;
     align-items: center;
@@ -262,11 +262,11 @@
     display: inline-block;
 }
 
-.filter-demo.audio { background: #28a745; }
-.filter-demo.video { background: #dc3545; }
-.filter-demo.photo { background: #fd7e14; }
-.filter-demo.text { background: #6f42c1; }
-.filter-demo.data { background: #17a2b8; }
+.filter-demo.audio { background: #0077B6; }
+.filter-demo.video { background: #00B4D8; }
+.filter-demo.photo { background: #90E0EF; }
+.filter-demo.text { background: #0077B6; }
+.filter-demo.data { background: #03045E; }
 
 .tag-examples {
     display: grid;
@@ -628,7 +628,7 @@
 
 /* Get Started Contributing */
 .get-started-contributing {
-    background: linear-gradient(135deg, #4a90c4, #2c5282);
+    background: linear-gradient(135deg, #2c5282, #1a365d);
     color: white;
     padding: 3rem;
     border-radius: 15px;
